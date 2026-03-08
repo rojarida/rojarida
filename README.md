@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Roman! 👋
 
-<!--
-**rojarida/rojarida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Old Dominion University.
 
-Here are some ideas to get you started:
+🌐 Interested in networking and IT Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Operating Systems, Networking Fundamentals, and PowerShell.
+
+🎯 Hobbies are lifting weights, video games, and reading.
+
+## Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,java)
+
+## Tools
+![Tools](https://skillicons.dev/icons?i=linux,mint,neovim,postgres,powershell,git)
+
+## Contact
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:romanjaydavid@gmail.com)
